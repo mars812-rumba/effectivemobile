@@ -1,0 +1,34 @@
+[
+  {
+    "id": "car-1",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "color": "белый",
+    "owner_id": "user-2"
+  },
+  {
+    "id": "car-2",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "color": "синий",
+    "owner_id": "user-2"
+  },
+  {
+    "id": "car-3",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "color": "чёрный",
+    "owner_id": "user-3"
+  },
+  {
+    "id": "car-4",
+    "brand": "Lada",
+    "model": "Vesta",
+    "year": 2022,
+    "color": "красный",
+    "owner_id": "user-3"
+  }
+]

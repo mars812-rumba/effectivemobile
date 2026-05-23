@@ -1,0 +1,57 @@
+[
+  {
+    "id": "user-1",
+    "first_name": "Админ",
+    "last_name": "Админович",
+    "patronymic": "Админов",
+    "email": "admin@test.ru",
+    "password_hash": "0832e51aef4b3511b057ad9f880fa8ab:b146052c64b42851a43fb1a1461d974669fee8c5dd31441c70f07c1e9a92bfe0",
+    "role_id": "role-admin",
+    "is_active": true,
+    "created_at": "2026-05-23T04:06:38.997434"
+  },
+  {
+    "id": "user-2",
+    "first_name": "Иван",
+    "last_name": "Иванов",
+    "patronymic": "Иванович",
+    "email": "user@test.ru",
+    "password_hash": "db7e5c459759ff5e4bccf3ae02af62b5:d69c30c6dad3a03c15730223637a77476a8935f52d9ba7ea215d9c3842821680",
+    "role_id": "role-user",
+    "is_active": true,
+    "created_at": "2026-05-23T04:06:38.997462"
+  },
+  {
+    "id": "user-3",
+    "first_name": "Мария",
+    "last_name": "Петрова",
+    "patronymic": "Сергеевна",
+    "email": "moderator@test.ru",
+    "password_hash": "abc2751b2568c18c77a9b37d0594476e:de5dbe7a80fd431c23190cba315532b33267033952b51554d39d234377003dd5",
+    "role_id": "role-moderator",
+    "is_active": true,
+    "created_at": "2026-05-23T04:06:38.997471"
+  },
+  {
+    "id": "user-32e16dbe",
+    "first_name": "string",
+    "last_name": "string",
+    "patronymic": "string",
+    "email": "string",
+    "password_hash": "fd41835a803ec88ef90aed613fd56eed:b54b3022ede5f2ca125e4cdc61bba05840a6e779beeccea251bf435eb0b406e3",
+    "role_id": "role-user",
+    "is_active": true,
+    "created_at": "2026-05-23T04:32:14.821066"
+  },
+  {
+    "id": "user-65d7aa87",
+    "first_name": "Marsel",
+    "last_name": "Khasanov",
+    "patronymic": "Irekovich",
+    "email": "mars@gamail.com",
+    "password_hash": "7d0a953fb159081e855fa2ae84dd03f7:630c41bb0ac22875174640aa06b693d3d1627a61323ff1347400059fe4bf2fb7",
+    "role_id": "role-user",
+    "is_active": true,
+    "created_at": "2026-05-23T04:36:59.461813"
+  }
+]

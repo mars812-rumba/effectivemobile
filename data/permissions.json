@@ -1,0 +1,50 @@
+[
+  {
+    "id": "perm-users-read",
+    "resource": "users",
+    "action": "read",
+    "description": "Просмотр любого пользователя"
+  },
+  {
+    "id": "perm-users-write",
+    "resource": "users",
+    "action": "write",
+    "description": "Редактирование любого пользователя"
+  },
+  {
+    "id": "perm-users-delete",
+    "resource": "users",
+    "action": "delete",
+    "description": "Удаление любого пользователя"
+  },
+  {
+    "id": "perm-cars-read",
+    "resource": "cars",
+    "action": "read",
+    "description": "Просмотр автомобилей"
+  },
+  {
+    "id": "perm-cars-write",
+    "resource": "cars",
+    "action": "write",
+    "description": "Создание и редактирование автомобилей"
+  },
+  {
+    "id": "perm-cars-delete",
+    "resource": "cars",
+    "action": "delete",
+    "description": "Удаление автомобилей"
+  },
+  {
+    "id": "perm-roles-manage",
+    "resource": "roles",
+    "action": "manage",
+    "description": "Управление ролями и их разрешениями"
+  },
+  {
+    "id": "perm-permissions-read",
+    "resource": "permissions",
+    "action": "read",
+    "description": "Просмотр списка разрешений"
+  }
+]

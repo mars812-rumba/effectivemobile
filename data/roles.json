@@ -1,0 +1,35 @@
+[
+  {
+    "id": "role-admin",
+    "name": "admin",
+    "description": "Администратор — полный доступ ко всему",
+    "permission_ids": [
+      "perm-users-read",
+      "perm-users-write",
+      "perm-users-delete",
+      "perm-cars-read",
+      "perm-cars-write",
+      "perm-cars-delete",
+      "perm-roles-manage",
+      "perm-permissions-read"
+    ]
+  },
+  {
+    "id": "role-user",
+    "name": "user",
+    "description": "Обычный пользователь — может смотреть машины и управлять своим профилем",
+    "permission_ids": [
+      "perm-cars-read"
+    ]
+  },
+  {
+    "id": "role-moderator",
+    "name": "moderator",
+    "description": "Модератор — может смотреть пользователей и удалять машины",
+    "permission_ids": [
+      "perm-users-read",
+      "perm-cars-read",
+      "perm-cars-delete"
+    ]
+  }
+]
